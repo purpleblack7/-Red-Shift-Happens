@@ -1,0 +1,12 @@
+This project was done by Team Red(Shift) Happens which consists of Kelsey Li, Gloria Majchrzak and Stevan Thomas. 
+
+Despite the name, AWS RedShift wasn't used (womp womp!)
+
+Links for the dataset: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks.  (Spotify Dataset 1922-2021, ~600k Tracks)
+
+We tried a Neural Network, Multinomial Logistic Regression and a xgboost model. Visualizations were done on MongoDB charts.
+
+This was one of our first attempts into a fully fledged machine learning project, so suggestions for improvement are welcome!!
+
+Enjoy!
+
